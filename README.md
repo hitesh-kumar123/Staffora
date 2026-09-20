@@ -278,6 +278,7 @@ Ran all test suites.
 
 ---
 name@gmail.com123
+alex@gmail.com
 ## 📄 License
 
 Distributed under the **MIT License**.
