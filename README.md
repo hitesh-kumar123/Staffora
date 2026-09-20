@@ -277,8 +277,7 @@ Ran all test suites.
 ```
 
 ---
-
-hello all 1234
+jhone@gmaie.com 
 ## 📄 License
 
 Distributed under the **MIT License**.
